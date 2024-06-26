@@ -21,7 +21,7 @@ This project is a simple publications/DOI caching API built with Laravel. It aim
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/raviallipilli/publications-cache-api.git
+   git clone https://github.com/raviallipilli/elsevier-publications-cache-api-project
    cd publications-cache-api
 
 2. Install dependencies:
